@@ -21,8 +21,8 @@ export default function Home() {
   <Link to='/About'>
   <li className='hidden sm:inline text-slate-700 hover:underline'>About</li>
   </Link>
-  <Link to='/signin'>
-  <li className='hidden sm:inline text-slate-700 hover:underline'>signin</li>
+  <Link to='/sign-in'>
+  <li className='hidden sm:inline text-slate-700 hover:underline'>sign in</li>
   </Link>
 </ul>
    </div>
